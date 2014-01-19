@@ -81,6 +81,8 @@
     return [self symbolsCount]*6;
 }
 
+#pragma mark counting
+
 -(int)additions {
     int count = 0;
     count += [self numberOfCharactersScore] + [self uppercaseLetterScore] + [self lowercaseLetterScore] + [self numbersScore];
@@ -97,6 +99,8 @@
     int mark = [self additions]-[self deductions];
     return mark > 100 ? 100 : mark;
 }
+
+#pragma mark public
 
 +(int)passwordStrength:(NSString*)password {
     DKPassword *i = [DKPassword new];

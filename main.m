@@ -6,9 +6,8 @@
 //  Copyright (c) 2014 Kurilo Dmitry. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
 
-#import "DKAppDelegate.h"
+#import "DKAp"
 
 int main(int argc, char * argv[])
 {

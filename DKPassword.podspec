@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "DKPassword"
-  s.version      = "0.1.0"
+  s.version      = "0.0.1"
   s.summary      = "Simple password strength checker"
   s.description  = "Simple password strength checker that works on Mac and iOS"
   s.homepage     = "https://github.com/masterrr/DKPassword"

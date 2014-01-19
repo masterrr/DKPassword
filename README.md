@@ -14,6 +14,8 @@ DKPassword **requires ARC**.
 
 ## Working with the DKPassword
 
+Just call this method, it will return password strength, on scale from 0 to 100. 
+
 ```objective-c
 +(int)passwordStrength:(NSString*)password;
 ```

@@ -25,3 +25,8 @@ Just call this method, it will return password strength, on scale from 0 to 100.
 Example iOS project provided. 
 
 ![Screenshot #1](https://pp.vk.me/c314720/v314720371/5b8a/Ns8TJFMrq90.jpg)
+
+## Future (to-do)
+
+* Add more sophisticated algorithms and calculation rules
+* Describe all algorithms used to calculate password strength in README

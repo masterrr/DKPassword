@@ -1,6 +1,6 @@
 # DKPassword
-
-![Version](https://cocoapod-badges.herokuapp.com/v/DKPassword/badge.png)
+[![Build Status](https://travis-ci.org/masterrr/DKPassword.svg?branch=master)](https://travis-ci.org/masterrr/DKPassword)
+ ![Version](https://cocoapod-badges.herokuapp.com/v/DKPassword/badge.png)
  ![Platform](https://cocoapod-badges.herokuapp.com/p/DKPassword/badge.png)
 
 DKPassword is a simple password strength checker written in Objective-C. 
